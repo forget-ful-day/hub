@@ -4,12 +4,36 @@
     "description": "Выбери нужный сайт:",
     "buttons": [
       {
-        "label": "OpenAI",
-        "url": "https://openai.com"
+        "label": "codex",
+        "url": "https://chatgpt.com/codex"
       },
       {
         "label": "GitHub",
         "url": "https://github.com"
+      },
+	  {
+        "label": "Google Drive",
+        "url": "https://drive.google.com"
+      },
+      {
+        "label": "youtube",
+        "url": "https://www.youtube.com/"
+      },
+	  {
+        "label": "deepseek",
+        "url": "https://chat.deepseek.com/"
+      },
+	  {
+        "label": "vercel",
+        "url": "https://vercel.com/"
+      },
+	  {
+        "label": "telegram",
+        "url": "https://web.telegram.org/"
+      },
+	  {
+        "label": "structure generator",
+        "url": "https://forget-ful-day.github.io/structure-generator.github.io/"
       }
     ]
   },
